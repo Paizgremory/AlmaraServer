@@ -1,0 +1,4 @@
+Taruh 2 file di folder ini (binary ffmpeg & ffprobe untuk Android arm64, build bionic/Android, BUKAN build Linux biasa):
+  libffmpeg.so
+  libffprobe.so
+Tanpa keduanya server tetap jalan (ngobrol/TTS), tetapi musik dan efek suara yang butuh ffmpeg tidak berfungsi.
